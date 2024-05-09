@@ -1,0 +1,63 @@
+header {
+    background-color: var(--azul-claro);
+    display: flex;
+    justify-content: space-between;
+    padding: 20 px 50px;
+}
+
+.logo
+
+.lista-navegacion {
+    align-items: center;
+    display: flex;
+    gap: 20px;
+}
+
+.linkedin-icon {
+    color: rgb(17, 14, 14);
+  height: 60px;
+    
+}
+.descarga-icon {
+    height: 20px;
+
+}
+
+.watsapp-icon {
+    background-color: var(--verde);
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    gap: 10px;
+    color: white;
+    padding: 15px 15px;
+    border-radius: 25px;
+    height: 40px;
+
+}
+.foto {
+    height: 300px;
+
+}
+
+main {
+    height: 80vh;
+    background: linear-gradient 225deg, var(--azul-1) 20%, var(--azul-2) 90% var(--azul-3) 100%
+    display grid;
+    grid-template-columns: 1fr 1fr;
+    color:white;
+}
+.presentacion h1 {
+    text-align: center;
+}
+
+.presentacion h1 {
+    font-size: 50px;
+}
+.presentacion h2 {
+    font-size: 20px;
+}
+.presentacion h3 {
+    font-size: 16px;
+}
+
